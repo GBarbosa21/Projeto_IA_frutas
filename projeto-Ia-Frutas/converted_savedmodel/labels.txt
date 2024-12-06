@@ -1,0 +1,10 @@
+0 Maçã
+1 Banana
+2 Laranja
+3 Abacate
+4 Coco
+5 Milho
+6 Pera
+7 Melancia
+8 Maracuja
+9 Manga
